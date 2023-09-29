@@ -34,7 +34,7 @@
 - Python (Django, Flask)
 - Java (Spring)
 - GO 
-- SQL (MySQL/ PostgreSQL/ ) 
+- SQL (MySQL/ PostgreSQL/ SQLite/ SQL Server/ Oracle) 
 - NoSQL (MongoDB)
 
 ## MOBILE
