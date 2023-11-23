@@ -3,66 +3,70 @@
 # Roadmap
 
 ## FRONTEND
-- HTML5
-- CSS3
-- JAVASCRIPT
-- JQUERY
-- JQUERYUI
-- BOOTSTRAP
-- TAILWIND
-- HAML
-- PUG
-- SASS
-- LESS
-- STYLUS
-- TYPESCRIPT
-- ANGULARJS
-- ANGULAR
-- VUE.JS
-- REACT.JS
-- NEXT.JS
-- NUXT.JS
-- GULP
-- GRUNT
-- WEBPACK
-- BABEL
+- [HTML5](https://html5.org/)
+- [CSS3](https://www.css3.com/)
+- [JAVASCRIPT](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+- [JQUERY](https://jquery.com/)
+- [JQUERYUI](https://jqueryui.com/)
+- [BOOTSTRAP](https://getbootstrap.com/)
+- [TAILWIND](https://tailwindcss.com/)
+- [HAML](https://haml.info/)
+- [PUG](https://pugjs.org/api/getting-started.html)
+- [SASS](https://sass-lang.com/)  
+- [LESS](https://lesscss.org/)  
+- [STYLUS](https://stylus-lang.com/)  
+- [TYPESCRIPT](https://www.typescriptlang.org/)  
+- [ANGULARJS](https://angularjs.org/)  
+- [ANGULAR](https://angular.io/)  
+- [VUE.JS](https://vuejs.org/)  
+- [REACT.JS](https://react.dev/)  
+- [NEXT.JS](https://nextjs.org/)  
+- [NUXT.JS](https://nuxt.com/)
+- [GULP](https://gulpjs.com/)  
+- [GRUNT](https://gruntjs.com/)  
+- [WEBPACK](https://webpack.js.org/)  
+- [BABEL](https://babeljs.io/)  
 
 ## BACKEND
-- Node
-- PHP
-- Ruby (Ruby on Rails)
-- Python (Django, Flask)
-- Java (Spring)
-- GO 
-- SQL (MySQL/ PostgreSQL/ SQLite/ SQL Server/ Oracle) 
-- NoSQL (MongoDB)
+- [Node](https://nodejs.org/en)
+- [PHP](https://www.php.net/)
+- [Ruby](https://www.ruby-lang.org/pt/)
+- [Ruby on Rails](https://rubyonrails.org/) 
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [Java](https://www.java.com/pt-BR/)
+- [GO](https://go.dev/)  
+- [MySQL](https://www.mysql.com/) (SQL) 
+- [MongoDB](https://www.mongodb.com/pt-br)  (NoSQL) 
 
-## MOBILE
-- Android Studio (Java)
-- Android Studio (Kotlin)
-- Ionic
-- JQuery Mobile
-- React Native
-- Nativescript
-- Flutter (Dart)
+## MOBILE  
+- [Android Studio](https://developer.android.com/studio?hl=pt-br)  (Java) (Kotlin)
+- [Ionic](https://ionicframework.com/) 
+- [JQuery Mobile](https://jquerymobile.com/) 
+- [React Native](https://reactnative.dev/) 
+- [Nativescript](https://nativescript.org/) 
+- [Flutter](https://flutter.dev/) 
 
 ## CLOUD
-- AWS
-- Google Cloud
-- Oracle Cloud
-- Azure
-- Digital Ocean
-- Linux
-- Windows Server
-- CPanel
-- Docker
-- Kubernets
+- [AWS](https://aws.amazon.com/pt/) 
+- [Google Cloud](https://cloud.google.com/?hl=pt-BR) 
+- [Oracle Cloud](https://www.oracle.com/br/) 
+- [Azure](https://azure.microsoft.com/pt-br/free/search/?&ef_id=Cj0KCQjw54iXBhCXARIsADWpsG8vRhMFxGe8rXTkkbpSUYpqNa7AyrizqdDqETKPSwt0JmUaWF6e32kaAiPLEALw_wcB:G:s&OCID=AIDcmmzmnb0182_SEM_Cj0KCQjw54iXBhCXARIsADWpsG8vRhMFxGe8rXTkkbpSUYpqNa7AyrizqdDqETKPSwt0JmUaWF6e32kaAiPLEALw_wcB:G:s&gclid=Cj0KCQjw54iXBhCXARIsADWpsG8vRhMFxGe8rXTkkbpSUYpqNa7AyrizqdDqETKPSwt0JmUaWF6e32kaAiPLEALw_wcB) 
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Linux](https://www.linux.org/)
+- [Windows Server](https://www.microsoft.com/pt-br/windows-server?ranMID=46128&ranEAID=wizKxmN8no4&ranSiteID=wizKxmN8no4-EH2_qO4w5DEWmUnkUdeWfA&epi=wizKxmN8no4-EH2_qO4w5DEWmUnkUdeWfA&irgwc=1&OCID=AIDcmm549zy227_aff_7794_1243925&tduid=%28ir__2f0zky1oogkfbidtsfmzg6nio22xb6mrzqwjqhnt00%29%287794%29%281243925%29%28wizKxmN8no4-EH2_qO4w5DEWmUnkUdeWfA%29%28%29&irclickid=_2f0zky1oogkfbidtsfmzg6nio22xb6mrzqwjqhnt00)
+- [CPanel](https://cpanel.net/)
+- [Docker](https://www.docker.com/)
+- [Kubernets](https://kubernetes.io/pt-br/)
 
 ## VCS
-- SVN
-- MERCURIAL
-- GIT
-- GIT HUB/ GIT LAB / BIT BUCKET
+- [SVN](https://tortoisesvn.net/)
+- [MERCURIAL](https://www.mercurial-scm.org/)
+- [GIT](https://git-scm.com/)
+- [GIT HUB](https://github.com/)
+- [GIT LAB](https://about.gitlab.com/)
+- [BIT BUCKET](https://bitbucket.org/product/)
 
 
 ### VSCODE
